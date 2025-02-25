@@ -15,12 +15,12 @@ Vitrin kýsmýnda görüntülenmek üzere veriler veri tabanýndan çekilmektedir.
 ***
 
 ### Projeye Ait Görseller
-![](https://i.hizliresim.com/788epc4.png)
+![](https://resmim.net/cdn/2025/02/25/NXg7bL.md.png)
 
-![](https://i.hizliresim.com/h0xceqh.png)
+![](https://resmim.net/cdn/2025/02/25/NXgQ3h.png)
 
-![](https://i.hizliresim.com/1oisuty.png)
+![](https://resmim.net/cdn/2025/02/25/NXgVtK.png)
 
-![](https://i.hizliresim.com/83s63nd.png)
+![](https://resmim.net/cdn/2025/02/25/NXg6FM.md.png)
 
 2025 © Merve AKBAÞ
