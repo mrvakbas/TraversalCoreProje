@@ -1,11 +1,11 @@
-## ***Traversal Rezervasyon Core Asp.Net 5.0 - Murat Yücedağ***
-Bu proje Murat Yücedağ egitmenliginde Youtube'de paylaştıgı 
-Traversal Rezervasyon Core Asp.Net 5.0 projesidir. Asp.Net Core eğitimi olarak geliştirilmiş ve code first yaklaşımı temel alan projedir.
-Proje içeriğinde çeşitli Rezervasyon, Kullanıcı ve Misafir yönetimini saglayan temel CRUD(Create, Read, Update, Delete) kullanılmaktadır.
-Vitrin kısmında görüntülenmek üzere veriler veri tabanından çekilmektedir. 
+## ***Traversal Rezervasyon Core Asp.Net 5.0 - Murat YÃ¼cedaÄŸ***
+Bu proje Murat YÃ¼cedaÄŸ egitmenliginde Youtube'de paylaÅŸtÄ±gÄ± 
+Traversal Rezervasyon Core Asp.Net 5.0 projesidir. Asp.Net Core eÄŸitimi olarak geliÅŸtirilmiÅŸ ve code first yaklaÅŸÄ±mÄ± temel alan projedir.
+Proje iÃ§eriÄŸinde Ã§eÅŸitli Rezervasyon, KullanÄ±cÄ± ve Misafir yÃ¶netimini saglayan temel CRUD(Create, Read, Update, Delete) kullanÄ±lmaktadÄ±r.
+Vitrin kÄ±smÄ±nda gÃ¶rÃ¼ntÃ¼lenmek Ã¼zere veriler veri tabanÄ±ndan Ã§ekilmektedir. 
 
 
-### Proje Bileşenleri
+### Proje BileÅŸenleri
 ***
 ##### Asp.Net Core Api - Rapid Api
 ##### Swagger -  Postman
@@ -14,13 +14,10 @@ Vitrin kısmında görüntülenmek üzere veriler veri tabanından çekilmektedir.
 ##### MsSql
 ***
 
-### Projeye Ait Görseller
-![](https://resmim.net/cdn/2025/02/25/NXg7bL.md.png)
+### Projeye Ait GÃ¶rseller
+![traversal1](https://github.com/user-attachments/assets/c86196ef-6420-4451-bd9e-077b643f89a1)
+![traversal2](https://github.com/user-attachments/assets/8196b702-817d-4082-989b-e8f0e4393080)
+![traversal3](https://github.com/user-attachments/assets/e99dd521-8a61-4376-a610-02112c33862c)
+![traversal4](https://github.com/user-attachments/assets/b5e7d2ad-e190-4e7f-942f-93245e7bf152)
 
-![](https://resmim.net/cdn/2025/02/25/NXgQ3h.png)
-
-![](https://resmim.net/cdn/2025/02/25/NXgVtK.png)
-
-![](https://resmim.net/cdn/2025/02/25/NXg6FM.md.png)
-
-2025 © Merve AKBAŞ
+2025 Â© Merve AKBAÅ
